@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+    background-color:black
+}
+
+.containers{
+    display: grid;
+    place-items: center;
+    height: 500px;
+}
+
